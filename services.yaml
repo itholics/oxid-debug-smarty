@@ -1,0 +1,6 @@
+services:
+  ITholics\Oxid\Component\DebugSmarty\Smarty\Plugin\SmartyDebugProvider:
+   decorates: OxidEsales\Smarty\Module\Plugin\ModuleSmartyPluginsDataProviderInterface
+    decoration_priority: 300
+    arguments:
+      - '@.inner'

@@ -1,0 +1,25 @@
+{
+    "name": "itholics/oxid-debug-smarty",
+    "description": "Helper to debug smarty templates in OXID",
+    "type": "oxideshop-component",
+    "keywords": [
+        "oxid",
+        "eshop",
+        "component"
+    ],
+    "license": "MIT",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "ITholics\\Oxid\\Component\\DebugSmarty\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {},
+    "authors": [
+        {
+            "name": "Gabriel Peleksei, ITholics GmbH",
+            "email": "gp@itholics.de"
+        }
+    ]
+}
