@@ -8,7 +8,6 @@
         "component"
     ],
     "license": "MIT",
-    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "ITholics\\Oxid\\Component\\DebugSmarty\\": "src/"
