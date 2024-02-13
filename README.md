@@ -1,4 +1,4 @@
-# itholics\oxid-debug-smarty
+# itholics/oxid-debug-smarty
 
 Helper to debug smarty templates in OXID
 
@@ -6,7 +6,7 @@ Helper to debug smarty templates in OXID
 ## Installation
 
 ```bash
-composer require --dev itholics\oxid-debug-smarty
+composer require --dev -n itholics/oxid-debug-smarty
 ```
 ## License
 
